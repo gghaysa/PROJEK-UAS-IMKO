@@ -1,5 +1,9 @@
 LATAR BELAKANG
-Dalam penelitian ini, kami menggunakan pendekatan berbasis pengguna (user-centered design) untuk memecahkan masalah yang telah diuraikan. Data dikumpulkan melalui kuisioner guna mengidentifikasi kebutuhan serta preferensi pengguna. Hasil analisis digunakan untuk merumuskan user requirement, yang kemudian diterjemahkan ke dalam sketsa antarmuka, storyboard, dan prototype aplikasi e-book. Dengan pendekatan ini, kami berharap sistem yang dikembangkan mampu menjawab keluhan pengguna sekaligus meningkatkan kenyamanan membaca secara digital.
+
+Dalam penelitian ini, kami menggunakan pendekatan berbasis pengguna (user-centered design) untuk memecahkan masalah yang telah diuraikan. Data dikumpulkan melalui kuisioner guna mengidentifikasi kebutuhan serta preferensi pengguna. Hasil analisis digunakan untuk merumuskan user requirement, yang kemudian diterjemahkan ke dalam sketsa antarmuka, storyboard, dan prototype aplikasi e-book. Dengan pendekatan ini, kami berharap sistem yang dikembangkan mampu menjawab keluhan 
+pengguna sekaligus meningkatkan kenyamanan membaca secara digital.
+
+
 FITUR UTAMA
 - Fitur pencarian cepat dan hashtag, untuk memudahkan akses buku lama.
 - Mode malam/siang yang dapat diatur, sesuai preferensi pengguna.
