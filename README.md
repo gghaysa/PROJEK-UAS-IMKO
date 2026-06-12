@@ -10,7 +10,8 @@ FITUR UTAMA
 -	Navigasi bab langsung dari daftar isi.
 - Mode ofline  pada bagian library saat sudah mendownload buku tersebut
 - Profil pencapaian pengguna sebagai motivasi membaca.
-PROTOTYPE
 
+
+PROTOTYPE
 
 https://www.figma.com/proto/tyGz5ku1O83crUhMSFcKPp/Prototyping?node-id=199-3221&t=bdY3ADwkmMQFGb4h-1
